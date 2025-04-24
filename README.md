@@ -34,4 +34,16 @@ The dataset (`mymoviedb.csv`) contains information about Netflix movies, includi
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Netflix-movie-data-analysis-using-Python.git
+   git clone [https://github.com/RiteshPathak15/Netflix-movie-data-analysis-using-Python.git]
+2. Install the required libraries:
+   ```bash
+   pip install pandas matplotlib seaborn numpy
+3. Open the Jupyter Notebook (movie data analysis using python.ipynb) and run the cells.
+
+##Insights
+1. Drama is the most frequent genre in the dataset.
+2. "Spider-Man: No Way Home" has the highest popularity.
+3. The year 2020 saw the highest number of movie releases.
+   
+##Contributing
+Feel free to fork this repository and submit pull requests for improvements or additional features.
